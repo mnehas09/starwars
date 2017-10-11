@@ -1,0 +1,23 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "finalstarwars.js",
+  "dependencies": {
+   "body-parser": "^1.15.0",
+   "express": "^4.13.4"
+ },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnehas09/starwars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnehas09/starwars/issues"
+  },
+  "homepage": "https://github.com/mnehas09/starwars#readme"
+}
